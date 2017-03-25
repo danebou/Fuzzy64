@@ -1,0 +1,12 @@
+[submodule "mupen64plus-ui-console"]
+	path = mupen64plus-ui-console
+	url = https://github.com/danebouchie/mupen64plus-ui-console
+[submodule "mupen64plus-win32-deps"]
+	path = mupen64plus-win32-deps
+	url = https://github.com/danebouchie/mupen64plus-win32-deps
+[submodule "mupen64plus-core"]
+	path = mupen64plus-core
+	url = https://github.com/danebouchie/mupen64plus-core
+[submodule "mupen64plus-video-glide64mk2"]
+	path = mupen64plus-video-glide64mk2
+	url = https://github.com/mupen64plus/mupen64plus-video-glide64mk2
