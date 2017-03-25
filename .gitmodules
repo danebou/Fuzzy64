@@ -10,3 +10,6 @@
 [submodule "mupen64plus-video-glide64mk2"]
 	path = mupen64plus-video-glide64mk2
 	url = https://github.com/mupen64plus/mupen64plus-video-glide64mk2
+[submodule "mupen64plus-rsp-hle"]
+	path = mupen64plus-rsp-hle
+	url = https://github.com/mupen64plus/mupen64plus-rsp-hle
